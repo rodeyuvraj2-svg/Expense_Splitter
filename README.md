@@ -11,7 +11,6 @@ A simple command-line Expense Splitter application built with Python. It helps u
 * Track who owes whom
 * Settle debts
 * Store data using JSON files
-* View expense history
 
 ## Project Structure
 
@@ -57,7 +56,6 @@ Expense_Splitter/
 * Enter expense name
 * Enter total amount
 * Select payer
-* Select members involved
 * Expense is automatically split equally
 
 ### Show Balance
